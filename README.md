@@ -5,14 +5,6 @@
 - While adding any content it should be inside its appropiate directory
 - if there is any problem with inaccurate solution create an issue!
 
-## file naming convention
-
-| use                | file type                      | comments                                                                                                    |
-| ------------------ | ------------------------------ | ----------------------------------------------------------------------------------------------------------- |
-| questions          | **README.md**                  | all questions of particular topic are mentioned in a `README.md` file inside the sub topic folder           |
-| C++ solutions      | **[topic name].cpp**           | solution C++ code file code to a question is written in same folder where question is mentioned             |
-| Java solutions      | **[topic name].java**           | solution java code file code to a question is written in same folder where question is mentioned             |
-| algorithm solution | **[topic name]-algorithm.txt** | algorithm solution to a question is written in a `.txt` txt file in same folder where question is mentioned |
 
 ## Things you can contribute to
 
