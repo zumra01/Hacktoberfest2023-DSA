@@ -59,8 +59,6 @@ public class SubarrayIndex {
 		
 		int X = sc.nextInt();
 	 
-	    // replace all the array element into
-	    // their set bit count value
 	    countSetBit(v, N);
 	 
 	    ArrayList<Integer> ans = new  ArrayList<Integer>();
